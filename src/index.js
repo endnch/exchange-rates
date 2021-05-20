@@ -13,7 +13,7 @@ const QueryStringBuilder = require('./query-string-builder');
 const currenciesList = require('./currencies');
 const utils = require('./utils');
 
-const API_BASE_URL = 'https://api.ratesapi.io';
+const API_BASE_URL = 'https://api.exchangerate.host';
 
 /**
  * ExchangeRates
